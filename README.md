@@ -4,6 +4,8 @@ You're passionate about helping others, and you're interested in using technolog
 And we can definitely use your skills. 
 
 ###If you're a community organizer
+We need people to get government officials who are in charge of data talking with the technologists in our group.
+We need people who knows what the community needs to drive our projects in the right direction.
 
 ###If you're a developer
 We're always looking for developers of all levels to start new projects or contribute to existing ones. Some of the
@@ -38,3 +40,4 @@ the data, leave a message in the
 ask.
 * Think small at first. If you have a big idea, think of the small steps you, the developers, the designers,
 and government memebers have to take to make this project a reality and write them down.
+* At the very least, think of ways your idea would benefit the community.
