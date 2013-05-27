@@ -6,15 +6,20 @@ And we can definitely use your skills.
 ###If you're a community organizer
 
 ###If you're a developer
-We're always looking for devel
+We're always looking for developers of all levels to start new projects or contribute to existing ones. Some of the
+types of projects we've been tackling are data cleanup and collection, bike route creation, intuitive APIs, 
+data visualization, and a lot more.
 
 ###If you *want* to be a developer
 Here's a great list of beginner code resources:
 * [Code Academy](http://www.codecademy.com)
 
-Once you think you have the fundamentals, try building a [Scraper](https://scraperwiki.com/)!
+Once you think you have the fundamentals, try building a [Scraper](https://scraperwiki.com/)! Look for data 
+locked in HTML, XML, CSV, etc format and write a script to import the data to a database.
 
 ###If you're a designer
+We need to make our apps easy to use for everyone. We need data to tell a story or make a point without 
+any obfuscation.
 
 ###If you *want* to be a designer
 
