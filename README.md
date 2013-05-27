@@ -6,8 +6,13 @@ And we can definitely use your skills.
 ###If you're a community organizer
 
 ###If you're a developer
+We're always looking for devel
 
 ###If you *want* to be a developer
+Here's a great list of beginner code resources:
+* [Code Academy](http://www.codecademy.com)
+
+Once you think you have the fundamentals, try building a [Scraper](https://scraperwiki.com/)!
 
 ###If you're a designer
 
@@ -26,4 +31,5 @@ developers and designers have a better chance of tackling your idea. If you're n
 the data, leave a message in the 
 [google group](https://groups.google.com/forum/?fromgroups#!forum/colorado-code-for-communities) and 
 ask.
-* Think small at first. If you have a big idea, think of the small steps you have to take before
+* Think small at first. If you have a big idea, think of the small steps you, the developers, the designers,
+and government memebers have to take to make this project a reality and write them down.
