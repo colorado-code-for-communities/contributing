@@ -17,13 +17,17 @@ Here's a great list of beginner code resources:
 * [Code Academy](http://www.codecademy.com)
 
 Once you think you have the fundamentals, try building a [Scraper](https://scraperwiki.com/)! Look for data 
-locked in HTML, XML, CSV, etc format and write a script to import the data to a database.
+locked in HTML, XML, CSV, etc format and write a script to clean and import the data to a database.
 
 ###If you're a designer
 We need to make our apps easy to use for everyone. We need data to tell a story or make a point without 
 any obfuscation.
 
 ###If you *want* to be a designer
+
+###If you like data
+* [OpenColorado](http://data.opencolorado.org/) needs contributors to make sure data is up to date and pointing to the 
+right endpoints.
 
 ###If you have a great idea
 We need great project ideas in order to build the applications to help others! If you have a great idea but
@@ -41,3 +45,10 @@ ask.
 * Think small at first. If you have a big idea, think of the small steps you, the developers, the designers,
 and government memebers have to take to make this project a reality and write them down.
 * At the very least, think of ways your idea would benefit the community.
+
+###If you like to share your thoughts
+* We love people who can share the groups ideals with the community! 
+We need people who can blog, tweet, write, anything to get the word out!
+
+###Anything else?
+* Come to our meetings!
