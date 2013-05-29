@@ -25,7 +25,7 @@ any obfuscation.
 
 ###If you *want* to be a designer
 
-###If you like data
+###If want to make data more easily accessible
 * [OpenColorado](http://data.opencolorado.org/) needs contributors to make sure data is up to date and pointing to the 
 right endpoints.
 
