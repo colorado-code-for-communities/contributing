@@ -1,6 +1,6 @@
 #How to Help?
 
-You're passionate about helping others, and you're interested in using technology to do it. Great! So are we!
+You're passionate about using technology to help others in your community. Great! So are we!
 And we can definitely use your skills. 
 
 ###If you're a community organizer
