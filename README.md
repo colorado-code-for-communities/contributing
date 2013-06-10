@@ -12,9 +12,13 @@ We're always looking for developers of all levels to start new projects or contr
 types of projects we've been tackling are data cleanup and collection, bike route creation, intuitive APIs, 
 data visualization, and a lot more.
 
+Check out our [resources page](https://github.com/colorado-code-for-communities/contributing/blob/master/RESOURCES.md) for useful tutorials: 
+
 ###If you *want* to be a developer
-Here's a great list of beginner code resources:
+Here's a great list of general code resources:
 * [Code Academy](http://www.codecademy.com)
+* [Code for Communities recommended resources](https://github.com/colorado-code-for-communities/contributing/blob/master/RESOURCES.md)
+
 
 Once you think you have the fundamentals, try building a [Scraper](https://scraperwiki.com/)! Look for data 
 locked in HTML, XML, CSV, etc format and write a script to clean and import the data to a database.
